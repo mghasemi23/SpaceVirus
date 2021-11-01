@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: 344a994962c4be544a6523400d5ae7f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1613006774565552606
+    second: Planet_0
+  - first:
+      213: -843526438886068857
+    second: Planet_1
+  - first:
+      213: -6187718912789322081
+    second: Planet_2
+  - first:
+      213: -7949722745842491565
+    second: Planet_4
+  - first:
+      213: 5217066568485195512
+    second: ghasem_4
+  - first:
+      213: 3897095501496157662
+    second: ghasem_5
+  - first:
+      213: -3868580891230720396
+    second: Planet_3
+  - first:
+      213: -862451654199938766
+    second: ghasem_7
+  - first:
+      213: -5671787961722768103
+    second: ghasem_8
+  - first:
+      213: -8350486042202190939
+    second: Planet_5
+  - first:
+      213: 3922843771170474483
+    second: ghasem_10
+  - first:
+      213: -7186094464942715956
+    second: ghasem_11
+  - first:
+      213: -6662656074750035976
+    second: ghasem_12
+  - first:
+      213: -2930398199166846590
+    second: ghasem_13
+  - first:
+      213: 5409380286760985128
+    second: ghasem_14
+  - first:
+      213: -7556787872417987728
+    second: ghasem_15
+  - first:
+      213: -8243696188100642445
+    second: ghasem_16
+  - first:
+      213: 3391757732575137622
+    second: ghasem_17
+  - first:
+      213: 8929656662086227575
+    second: ghasem_18
+  - first:
+      213: -8360208980382476935
+    second: ghasem_19
+  - first:
+      213: 8513122775395042076
+    second: ghasem_20
+  - first:
+      213: -3815365875769663884
+    second: ghasem_21
+  - first:
+      213: 4122675357247860390
+    second: ghasem_22
+  - first:
+      213: -9191106014009319595
+    second: ghasem_23
+  - first:
+      213: -8121506009240355462
+    second: ghasem_24
+  - first:
+      213: -8637246506915916332
+    second: ghasem_25
+  - first:
+      213: -2391521490884992220
+    second: ghasem_26
+  - first:
+      213: -8930972383704890237
+    second: ghasem_27
+  - first:
+      213: 6062571514725710871
+    second: ghasem_28
+  - first:
+      213: -9146315952350275394
+    second: ghasem_29
+  - first:
+      213: -326012116150155426
+    second: ghasem_30
+  - first:
+      213: -7033528969081561230
+    second: ghasem_31
+  - first:
+      213: -6640917867061596078
+    second: ghasem_32
+  - first:
+      213: -1738990974115871762
+    second: ghasem_33
+  - first:
+      213: 5123137833926155395
+    second: ghasem_34
+  - first:
+      213: -5006022008647407174
+    second: ghasem_35
+  - first:
+      213: 9112048852924458322
+    second: ghasem_36
+  - first:
+      213: -6526705534631432315
+    second: Planet_6
+  - first:
+      213: -4424938851272970819
+    second: Planet_7
+  - first:
+      213: 108877078633846079
+    second: Planet_8
+  - first:
+      213: 2625015251678534965
+    second: ghasem_40
+  - first:
+      213: -7301729059059239037
+    second: ghasem_41
+  - first:
+      213: -1466258750721691518
+    second: ghasem_42
+  - first:
+      213: -876144027860524486
+    second: ghasem_43
+  - first:
+      213: -389556692505679849
+    second: ghasem_44
+  - first:
+      213: -4588758257829568943
+    second: ghasem_45
+  - first:
+      213: -2634767366309083504
+    second: ghasem_46
+  - first:
+      213: -8711013698738740307
+    second: ghasem_47
+  - first:
+      213: 6769817562354235293
+    second: ghasem_48
+  - first:
+      213: -8534409426980038483
+    second: ghasem_49
+  - first:
+      213: -1365463941132711445
+    second: ghasem_50
+  - first:
+      213: -9001539283075429369
+    second: ghasem_51
+  - first:
+      213: -6295398031166437109
+    second: ghasem_52
+  - first:
+      213: 961512179937005248
+    second: ghasem_53
+  - first:
+      213: 7873570829055192687
+    second: ghasem_54
+  - first:
+      213: 500699172650369341
+    second: ghasem_55
+  - first:
+      213: -1935381372606921299
+    second: ghasem_56
+  - first:
+      213: -4573187451772593822
+    second: ghasem_57
+  - first:
+      213: -5502185096987081451
+    second: ghasem_58
+  - first:
+      213: -7695327434674037874
+    second: ghasem_59
+  - first:
+      213: 7418044357323994476
+    second: ghasem_60
+  - first:
+      213: -1057464456668001942
+    second: ghasem_61
+  - first:
+      213: 5949069571335499614
+    second: ghasem_62
+  - first:
+      213: -8618961143914486902
+    second: ghasem_63
+  - first:
+      213: 5608242635820331658
+    second: ghasem_64
+  - first:
+      213: -969255229108426534
+    second: ghasem_65
+  - first:
+      213: 7484474185929595145
+    second: ghasem_66
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Planet_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1476
+        width: 412
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1474a8d1d826610800000000000000
+      internalID: 1613006774565552606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_1
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1409
+        width: 750
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dab8b4c213b44f0800000000000000
+      internalID: -843526438886068857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_2
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1479
+        width: 408
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96e939ce6ec02aa0800000000000000
+      internalID: -6187718912789322081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 792
+        width: 416
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e24511d2a005ac0800000000000000
+      internalID: -3868580891230720396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 627
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fa7be65eb7c65a0800000000000000
+      internalID: -6526705534631432315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_7
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 70
+        width: 658
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdac012f857792c0800000000000000
+      internalID: -4424938851272970819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_8
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 127
+        width: 412
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35172c402fc28100800000000000000
+      internalID: 108877078633846079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_5
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 742
+        width: 474
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab4ea8ff2d1d1c80800000000000000
+      internalID: -8350486042202190939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_4
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 638
+        width: 788
+        height: 708
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f17373849eca190800000000000000
+      internalID: -7949722745842491565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
